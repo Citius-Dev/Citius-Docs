@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/Citius-Docs/',
+  base: '/',
   title: "Citius",
   description: "Citius 编程语言 — 一门编译到 C 的高性能系统级语言",
   lang: 'zh-CN',
