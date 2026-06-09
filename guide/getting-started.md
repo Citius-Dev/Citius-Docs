@@ -19,7 +19,7 @@ Citius 编译器会自动检测系统上可用的 C 编译器，优先顺序：*
 
 ```bash
 # 第 1 步：从 GitHub 克隆 Citius 编译器源码
-git clone https://github.com/zhouyi/citius.git
+git clone https://github.com/Citius-Dev/Citius-Beta.git
 
 # 第 2 步：进入项目目录
 cd citius
