@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/Citius-Docs/',
   title: "Citius",
   description: "Citius 编程语言 — 一门编译到 C 的高性能系统级语言",
   lang: 'zh-CN',
@@ -42,7 +43,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/zhouyi/citius' }
+      { icon: 'github', link: 'https://github.com/Citius-Dev/Citius-Docs' }
     ],
 
     footer: {
@@ -51,7 +52,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/zhouyi/citius-docs/edit/main/:path',
+      pattern: 'https://github.com/Citius-Dev/Citius-Docs/edit/master/:path',
       text: '在 GitHub 上编辑此页'
     },
 
