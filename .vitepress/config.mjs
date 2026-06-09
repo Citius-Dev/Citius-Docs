@@ -23,6 +23,7 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/guide/introduction' },
             { text: '快速开始', link: '/guide/getting-started' },
+            { text: '从零开始写程序', link: '/guide/tutorial' },
             { text: '编译器使用', link: '/guide/compiler-usage' },
           ]
         },
