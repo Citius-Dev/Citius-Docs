@@ -43,7 +43,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Citius-Dev/Citius-Docs' }
+      { icon: 'github', link: 'https://github.com/Citius-Dev/Citius-Dev.github.io' }
     ],
 
     footer: {
@@ -52,7 +52,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/Citius-Dev/Citius-Docs/edit/master/:path',
+      pattern: 'https://github.com/Citius-Dev/Citius-Dev.github.io/edit/master/:path',
       text: '在 GitHub 上编辑此页'
     },
 
